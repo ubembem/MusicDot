@@ -5,6 +5,13 @@ body{
     font-family: "Helvetica", "Lucida Grande", sans-serif;
     color: #3d3d3d;
 }
+.contatos{
+    font-family: serif;
+    color: #3d3d3d;
+}
+.linhas{
+    font-family: serif;
+}
 .titulo{
     background-color: #e1edf2;
     padding: 10px;
